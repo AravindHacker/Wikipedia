@@ -1,2 +1,3 @@
 # Wikipedia
-![Screenshot (35)](https://user-images.githubusercontent.com/116102105/229855757-8df8dc32-e635-4aab-ad08-aa9dce32ce19.png)
+
+![Wiki](https://user-images.githubusercontent.com/116102105/231944978-f6e83430-836c-46b6-9321-ac43e2a2639f.png)
